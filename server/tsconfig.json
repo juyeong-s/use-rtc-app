@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "typeRoots": ["../node_modules/@types"],
+    "isolatedModules": true,
+    "disableSourceOfProjectReferenceRedirect": true
+  }
+}
